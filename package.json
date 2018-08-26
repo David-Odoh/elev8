@@ -1,0 +1,14 @@
+{
+  "name": "elev8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "David",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.5.0"
+  }
+}
