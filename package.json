@@ -2,7 +2,7 @@
   "name": "elev8",
   "version": "1.0.0",
   "description": "",
-  "main": "sketch.js",
+  "main": "sum.js",
   "scripts": {
     "test": "jest"
   },
